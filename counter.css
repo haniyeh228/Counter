@@ -1,0 +1,23 @@
+.main {
+    text-align: center;
+    margin-top: 200px;
+    font-size: very large;
+
+
+}
+
+body {
+    background-color: rgb(140, 212, 240);
+
+}
+
+.value {
+    font-size: 2em;
+}
+
+#btn-reset,
+#btn-increase,
+#btn-decrease {
+    border: 2px solid black;
+    border-radius: 10px;
+}
